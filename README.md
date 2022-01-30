@@ -11,15 +11,24 @@
    
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg" alt="upload.wikimedia.org">
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kismet-IMG_6007-black.jpg/800px-Kismet-IMG_6007-black.jpg">Here's the Kismet image link!</a>
-
 <table>
-  <tr>
-    <th><td align="left">Number</td>
-    <th>Colour</th>
-    <th>Size</th>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>Blue</td>
-    <td>Small</td>
-    </table>
+  <thead>
+    <tr>
+      <th>Number</th>
+      <th>Colour</th>
+      <th>Size</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>Blue</td>
+      <td>Small</td>
+      <table>
+
+      
+
+```python
+def sum(a, b):
+    return a + b
+```
