@@ -14,8 +14,7 @@
 
 <table>
   <tr>
-    <th {
-         text-align: left; Number}</th>
+    <th><td align="left">Number</td>
     <th>Colour</th>
     <th>Size</th>
   </tr>
