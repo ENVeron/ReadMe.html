@@ -5,7 +5,7 @@
 <ul> 
   <li>Name:Eilisha Natalia McCormick Veron
   <li>Student ID:113041668
-  <li>Email Address: veren001@mymail.unisa.edu.au
+  <li>Email Address:Veren001@mymail.unisa.edu.au
   <li>Bachelor of IT</ul>
     
    
